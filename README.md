@@ -1,4 +1,4 @@
-# Retail Data Pipeline: ETL & Analytics Infrastructure
+# 🔄 Retail Data Pipeline: ETL & Analytics Infrastructure
 
 An automated ETL pipeline that transforms raw e-commerce transaction data into a structured analytics database. This solution enables real-time business intelligence by consolidating, cleaning, and modeling retail data for downstream reporting and analysis.
 
@@ -113,11 +113,11 @@ This project showcases expertise in data engineering, database design, Python de
 
 ## 👤 Author
 
-**Vinay Sai**  
+**Bandela Sai**  
 Data Engineer | ETL Development | Database Design
 
-- [GitHub](https://github.com/vinaysai7)
-- [LinkedIn](https://www.linkedin.com/in/bandela-vinay-babu)
+- [GitHub](https://github.com/saibandela)
+- [LinkedIn](https://www.linkedin.com/in/saibabu-bandela)
 
 ---
 
